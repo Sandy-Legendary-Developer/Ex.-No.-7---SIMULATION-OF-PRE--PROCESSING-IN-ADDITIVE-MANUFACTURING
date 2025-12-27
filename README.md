@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 21-12-2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -38,15 +38,21 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+### OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2025-12-21 114309" src="https://github.com/user-attachments/assets/e29746d5-1871-4c9a-b2e2-38b3da260730" />
 
-## Output:
+<img width="1920" height="1080" alt="Screenshot 2025-12-21 114322" src="https://github.com/user-attachments/assets/05e5e297-f0a1-4dab-837f-954a799e0b48" />
 
-### Name:
-### Register Number:
+<img width="1920" height="1080" alt="Screenshot 2025-12-21 114332" src="https://github.com/user-attachments/assets/6c71058a-cf30-486e-ad52-a622e26d8ba9" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-21 114346" src="https://github.com/user-attachments/assets/fd3d0578-8099-45ff-8f20-515de510a3d3" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-21 114355" src="https://github.com/user-attachments/assets/5ba521fb-7862-4d62-8081-6436de84eb9f" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-21 114238" src="https://github.com/user-attachments/assets/16ccb9b9-c734-4fc3-8b92-c577d5b2b1a0" />
+
+### Name:SANTHOSH K  
+### Register Number:25008643
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
